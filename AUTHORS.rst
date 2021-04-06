@@ -1,7 +1,12 @@
-Authors
+Authors (People I have learned from, stolen from, etc.)
 -------
 
-* Eric (New contributor)
-* Anthony 
+* JimTheScientist
+* Novato
+* Tomlacko
+* DEJVOSS
+* rufus10
+* pbjtime12
+* polymetric
 
 
