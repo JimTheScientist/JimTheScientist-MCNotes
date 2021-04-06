@@ -10,7 +10,6 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
    Java/JavaRandom/Random
    authors
    readme
