@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+Minecraft Notes - From Bits to Blocks
 ==================================================
 
 Contents:
@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    :glob:
-   Java/JavaRandom/Random
+   docs/Java/JavaRandom/Random
    *
 
 
