@@ -11,8 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
    :glob:
-   docs/Java/JavaRandom/Random
-
+   Java/JavaRandom/Random
+   authors
+   readme
+   usage
+   ...
 
 
 Indices and tables
