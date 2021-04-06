@@ -12,7 +12,6 @@ Contents:
    :maxdepth: 2
    :glob:
    docs/Java/JavaRandom/Random
-   ...
 
 
 
